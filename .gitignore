@@ -1,0 +1,16 @@
+# data
+data/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Python Tools
+__pycache__/
+*.pyc
+
+# OS X Finder
+.DS_Store
+
+# vscode
+.vscode
